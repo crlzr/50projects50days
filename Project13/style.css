@@ -74,3 +74,9 @@ h3 {
     cursor: pointer;
 }
 
+.highlight {
+    background: #fff176;
+    color: #d6336c;
+    box-shadow: 0 0 0 3px #fff176;
+    font-weight: 700;
+}
